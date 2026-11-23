@@ -1,3 +1,5 @@
+[English](README.md) | [Русский](README.ru.md)
+
 # Predictive Maintenance: Estimating the Remaining Useful Life of Hard Drives
 
 ## Problem
