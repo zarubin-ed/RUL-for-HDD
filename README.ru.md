@@ -1,3 +1,5 @@
+[English](README.md) | [Русский](README.ru.md)
+
 # Predictive Maintenance: Remaining Useful Life оценка для жёстких дисков
 
 ## Задача
